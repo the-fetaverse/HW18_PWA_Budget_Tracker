@@ -25,5 +25,8 @@
     "lite-server": "^2.5.4",
     "mongoose": "^5.9.20",
     "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "minimist": "^1.2.5"
   }
 }
