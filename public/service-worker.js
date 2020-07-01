@@ -1,0 +1,1 @@
+console.log("Greetings from the service-worker.js file!")
